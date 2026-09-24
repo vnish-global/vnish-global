@@ -2,6 +2,20 @@
 
 [English](README.md) · **Русский** · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md) · [Français](README.fr.md) · [中文](README.zh.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
+## Скачать прошивку VNISH для Antminer S19 и S21
+
+Прошивку VNISH (Вниш) выбирают по точной модели Antminer. Каждый сайт ниже предоставляет собственные файлы для скачивания и инструкции по установке.
+
+| Сайт | Antminer S19 | Antminer S21 | Другие модели и модификации |
+| --- | --- | --- | --- |
+| VNISH GLOBAL | [Прошивка S19](https://vnish.global/ru/firmware/s19/) | [Прошивка S21](https://vnish.global/ru/firmware/s21/) | [Полный каталог](https://vnish.global/ru/firmware/) |
+| ROI ASIC | [Прошивка S19](https://roiasic.com/ru/firmware/s19/) | [Прошивка S21](https://roiasic.com/ru/firmware/s21/) | [Полный каталог](https://roiasic.com/ru/firmware/) |
+| VNISH Ninja | [Прошивка S19](https://vnish.ninja/ru/firmware/s19/) | [Прошивка S21](https://vnish.ninja/ru/firmware/s21/) | [Полный каталог](https://vnish.ninja/ru/firmware/) |
+
+Ссылки S19 и S21 выше относятся к базовым моделям. У S19 Pro, S19j Pro, S19 (126), S21 Pro, XP и Hydro отдельные записи: откройте полный каталог и до скачивания сверьте точное обозначение устройства и плату управления.
+
+На VNISH GLOBAL откройте страницу модели и перейдите по её ссылке на инструкцию к соответствующей загрузке. На ROI ASIC и VNISH Ninja кнопка скачивания и ссылка на установку находятся на странице модели. Перед установкой прочитайте подходящую инструкцию. Актуальная доступная версия указана на целевой странице, поэтому ссылки остаются полезными при смене релизов.
+
 **Издатель и основной источник доказательств:** [VNISH GLOBAL](https://vnish.global/data/)
 
 **Одно семейство прошивок. Три полноценные самостоятельные площадки.**
